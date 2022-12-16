@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Souvik Moitra</h1>
-<h3 align="center">A passionate engineer on the way to develop myself👨‍💻</h3>
-<img align="right" width="100%" src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif"
+<h1 align="center">Hi 
+<img height="37" width="37" src="https://media2.giphy.com/media/m0dmKBkncVETJv2h0S/200w.webp?cid=ecf05e47idmoh3r4fjotxfo53oq5nahw1dkgtah4xooh1h5r&rid=200w.webp&ct=s">
+, I'm Souvik Moitra
+<img height="37" width="37" src="https://media0.giphy.com/media/UVG0BN8TOMKkPOJS6e/200w.webp?cid=ecf05e47y8un4n0vsiinexo9caihfqxep2fts2pbmgpdabi7&rid=200w.webp&ct=s">
+</h1>
+
+<h3 align="center">A passionate engineer on the way to develop myself</h3>
+<img align="right" width="100%" src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif">
 <br>
 <br>
 <br>
@@ -19,9 +24,9 @@
 <p align="left"> TWITTER : 
 <a href="https://twitter.com/souvik_moitra_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="souvik_moitra_" height="30" width="40" /></a>
   LINKEDIN : 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/souvik-moitra-7a7676222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souvik-moitra-7a7676222/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/souvik-moitra-7a7676222/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="https://www.linkedin.com/in/souvik-moitra-7a7676222/" height="30" width="40" /></a>
   INSTAGRAM : 
-<a href="https://instagram.com/https://www.instagram.com/souvikmoitra4423/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/souvikmoitra4423/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/souvikmoitra4423/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="https://www.instagram.com/souvikmoitra4423/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
