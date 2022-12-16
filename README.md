@@ -5,15 +5,15 @@
 <br>
 <br>
 <p> 
-- 🌱 I’m currently learning **FrontEnd Web Develpoment** </p>
+  - 🌱 I’m currently learning <b> FrontEnd Web Develpoment </b> </p>
 <p> 
 - 👨‍💻 All of my projects are available at [https://github.com/Souvik2003K?tab=repositories](https://github.com/Souvik2003K?tab=repositories) </p>
 <p> 
-- 💬 Ask me about **Web Development** </p>
+- 💬 Ask me about <b> Web Development </b> </p>
 <p> 
-- 📫 How to reach me **souvikmoitra2003@gmail.com** </p>
+- 📫 How to reach me <b> souvikmoitra2003@gmail.com </b> </p>
 <p> 
-- ⚡ Fun fact : **The world's first programmer was a woman.** </p>
+- ⚡ Fun fact : <b> The world's first programmer was a woman. </b> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> TWITTER : 
