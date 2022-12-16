@@ -16,9 +16,11 @@
 - ⚡ Fun fact : **The world's first programmer was a woman.** </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/souvik_moitra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souvik_moitra_" height="30" width="40" /></a>
+<p align="left"> TWITTER : 
+<a href="https://twitter.com/souvik_moitra_" target="blank"><img align="center" src="[[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg)](https://help.twitter.com/content/dam/help-twitter/brand/logo.png)" alt="souvik_moitra_" height="30" width="40" /></a>
+  LINKEDIN : 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/souvik-moitra-7a7676222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souvik-moitra-7a7676222/" height="30" width="40" /></a>
+  INSTAGRAM : 
 <a href="https://instagram.com/https://www.instagram.com/souvikmoitra4423/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/souvikmoitra4423/" height="30" width="40" /></a>
 </p>
 
