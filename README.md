@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> TWITTER : 
-<a href="https://twitter.com/souvik_moitra_" target="blank"><img align="center" src="[[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg)](https://help.twitter.com/content/dam/help-twitter/brand/logo.png)" alt="souvik_moitra_" height="30" width="40" /></a>
+<a href="https://twitter.com/souvik_moitra_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="souvik_moitra_" height="30" width="40" /></a>
   LINKEDIN : 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/souvik-moitra-7a7676222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souvik-moitra-7a7676222/" height="30" width="40" /></a>
   INSTAGRAM : 
