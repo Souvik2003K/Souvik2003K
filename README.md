@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate engineer on the way to develop myself</h3>
 
-<img align="right" width="100%" src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif"/>
+<img align="right" width="100%" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
 <hr>
 
@@ -20,7 +20,7 @@
 
 <p>- 📫 How to reach me <b> souvikmoitra2003@gmail.com </b></p>
 
-<p>- ⚡ Fun fact : <b> The world's first programmer was a woman. </b></p>
+<p>- ⚡ Fact about coding : <b> The world's first programmer was a woman. </b></p>
 
 <h3 align="left">Connect with me:</h3>
 
