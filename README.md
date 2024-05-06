@@ -11,7 +11,7 @@
 
 <hr>
 
-<p>- 🌱 I’m currently learning <b> FrontEnd Web Develpoment </b></p>
+<p>- 🌱 I’m currently learning <b> Full Stack Web Develpoment </b></p>
 
 <p>- 👨‍💻 All of my projects are available at => https://souvik-moitra-portfolio.vercel.app/
 </p>
