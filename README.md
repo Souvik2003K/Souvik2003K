@@ -35,8 +35,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<img src="https://skillicons.dev/icons?i=py,html,css,js" width={100}/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,redux" width={100}/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,nodejs,express,py" width={100}/>
 
 <br>
 <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,sass" width={100}/>
